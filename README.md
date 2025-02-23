@@ -33,9 +33,6 @@ bash
 python speed_typing.py
 
 
-## 📷 Screenshots
-(Include relevant screenshots here)
-
 ## 🏗 Project Structure
 
 📂 speed-typing-test/
@@ -47,11 +44,6 @@ python speed_typing.py
 └── README.md              # Project documentation
 
 
-## 📜 License
-This project is open-source and available under the *MIT License*.
 
 ## 🤝 Connect
 - 🔗 GitHub: [Rashi290](https://github.com/Rashi290)
-- 📧 Email: (Add your contact email if you wish)
-
-Happy Typing! ⌨🚀
